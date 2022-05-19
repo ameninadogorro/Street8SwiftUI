@@ -1,4 +1,4 @@
-//
+ //
 //  SandboxSwiftUIApp.swift
 //  SandboxSwiftUI
 //
@@ -6,8 +6,7 @@
 //
 
 import SwiftUI
-
-@main
+ @main
 struct SandboxSwiftUIApp: App {
     var body: some Scene {
         WindowGroup {
