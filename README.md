@@ -8,7 +8,7 @@
 <p>Com a proposta de trazer mais facilidade para encontrar skatistas perto de você, pistas em boas condições, e seu maior diferencial a funcionalidade de "BATER GAME" com outros skatistas sem perder a noção da pontuação tudo isso em um unico app 😎✌🏻 </p>
     </td>
     <td>
-    <img src="street8.png">
+    <img src="street.png">
     </td>
   </tr>
 </table>
