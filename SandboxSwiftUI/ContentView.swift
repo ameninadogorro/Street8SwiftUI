@@ -22,8 +22,15 @@ struct ContentView: View {
                     Text("Perfil")
                 }
                         }
+        Favoritos()
+            .tabItem {
+                Image(systemName: "star.fill")
+                Text("Favoritos")
+            }
+                    }
         }
-    }
+        
+    
 
 struct ContentView_Previews: PreviewProvider {
     static var previews: some View {

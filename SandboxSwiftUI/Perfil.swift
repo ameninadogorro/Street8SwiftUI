@@ -67,7 +67,7 @@ struct Perfil: View {
                 }
                 Spacer()
             }
-        }
+        }    
     }
     
 }
@@ -77,5 +77,5 @@ struct Perfil_Previews: PreviewProvider {
         Perfil()
             .preferredColorScheme(/*@START_MENU_TOKEN@*/.dark/*@END_MENU_TOKEN@*/)
     }
+    
 }
-

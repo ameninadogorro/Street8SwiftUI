@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		4C19E71529A7E20E005A794B /* Favoritos.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C19E71429A7E20E005A794B /* Favoritos.swift */; };
 		4CD8CC23282C30020096B7A7 /* SandboxSwiftUIApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4CD8CC22282C30020096B7A7 /* SandboxSwiftUIApp.swift */; };
 		4CD8CC25282C30020096B7A7 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4CD8CC24282C30020096B7A7 /* ContentView.swift */; };
 		4CD8CC27282C30030096B7A7 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4CD8CC26282C30030096B7A7 /* Assets.xcassets */; };
@@ -35,6 +36,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		4C19E71429A7E20E005A794B /* Favoritos.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Favoritos.swift; sourceTree = "<group>"; };
 		4CD8CC1F282C30020096B7A7 /* SandboxSwiftUI.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SandboxSwiftUI.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		4CD8CC22282C30020096B7A7 /* SandboxSwiftUIApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SandboxSwiftUIApp.swift; sourceTree = "<group>"; };
 		4CD8CC24282C30020096B7A7 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -98,6 +100,7 @@
 			children = (
 				4CD8CC22282C30020096B7A7 /* SandboxSwiftUIApp.swift */,
 				4CE0A44628326C510056241E /* Perfil.swift */,
+				4C19E71429A7E20E005A794B /* Favoritos.swift */,
 				4CFAB0B628366DE200D2A301 /* Curtidas.swift */,
 				4CD8CC24282C30020096B7A7 /* ContentView.swift */,
 				4CD8CC26282C30030096B7A7 /* Assets.xcassets */,
@@ -263,6 +266,7 @@
 				4CFAB0B728366DE200D2A301 /* Curtidas.swift in Sources */,
 				4CE0A44728326C510056241E /* Perfil.swift in Sources */,
 				4CD8CC25282C30020096B7A7 /* ContentView.swift in Sources */,
+				4C19E71529A7E20E005A794B /* Favoritos.swift in Sources */,
 				4CD8CC23282C30020096B7A7 /* SandboxSwiftUIApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -421,6 +425,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_ASSET_PATHS = "\"SandboxSwiftUI/Preview Content\"";
+				DEVELOPMENT_TEAM = 964GK867Y7;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
@@ -449,6 +454,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_ASSET_PATHS = "\"SandboxSwiftUI/Preview Content\"";
+				DEVELOPMENT_TEAM = 964GK867Y7;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
